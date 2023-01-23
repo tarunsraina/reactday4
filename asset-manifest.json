@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactday4/static/css/main.96ef710f.css",
+    "main.js": "/reactday4/static/js/main.3b74f546.js",
+    "static/js/787.03b15b57.chunk.js": "/reactday4/static/js/787.03b15b57.chunk.js",
+    "index.html": "/reactday4/index.html",
+    "main.96ef710f.css.map": "/reactday4/static/css/main.96ef710f.css.map",
+    "main.3b74f546.js.map": "/reactday4/static/js/main.3b74f546.js.map",
+    "787.03b15b57.chunk.js.map": "/reactday4/static/js/787.03b15b57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96ef710f.css",
+    "static/js/main.3b74f546.js"
+  ]
+}
